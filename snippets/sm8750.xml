@@ -4,6 +4,7 @@
   <project path="hardware/qcom-caf/sm8750/audio/agm" name="realme-rmx5010-development/android_vendor_qcom_opensource_agm" groups="qcom,pakala-audio" revision="lineage-22.2-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/audio/pal" name="realme-rmx5010-development/android_vendor_qcom_opensource_arpal-lx" groups="qcom,pakala-audio" revision="lineage-22.2-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/audio/primary-hal" name="realme-rmx5010-development/android_hardware_qcom_audio-ar" groups="qcom,pakala-audio" revision="lineage-22.2-caf-sm8750" />
+  <project path="hardware/qcom-caf/sm8750/audio/st-hal-ar" name="realme-rmx5010-development/android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,pakala-audio" revision="lineage-22.2-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/data-ipa-cfg-mgr" name="realme-rmx5010-development/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pakala-vendor" revision="lineage-22.2-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/dataipa" name="realme-rmx5010-development/android_vendor_qcom_opensource_dataipa" groups="qcom,pakala-vendor" revision="lineage-22.2-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/display" name="realme-rmx5010-development/android_hardware_qcom_display" groups="qcom" revision="lineage-22.2-caf-sm8750" />
